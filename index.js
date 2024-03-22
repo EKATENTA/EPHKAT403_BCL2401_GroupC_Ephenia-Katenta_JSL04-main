@@ -29,7 +29,6 @@ let currentTemp = 4; // Current temperature in °C
 console.log(currentTemp <= 5 ? "Chilled to perfection!" : "Needs a cooler!");
 
 // #### Challenge 5: Late Night Coding Session
-// Determine if it's a good idea to have a Monster Energy drink based on the current hour.
 // If it's between 7am and midnight (24-hour format), print "Unleash the beast!",
 // otherwise, print "Better stick to water."
 
